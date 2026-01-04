@@ -95,6 +95,32 @@ Immersion is developed and maintained by the same author.
 [https://github.com/Stormhand81/Immersion]
 
 
+## 🛠️ Installation
+
+Download the latest release of Dragonflight UI: Reforged
+Extract the ZIP file
+Ensure the folder name is exactly:
+DragonflightUI-Reforged
+Place the DragonflightUI-Reforged folder into your WoW directory:
+Interface\AddOns\
+
+
+(Optional) Copy the contents of 1.EXTRAS into:
+Interface\
+
+Restart World of Warcraft
+
+### ⚠️ Important Note
+
+If you downloaded the addon using Code → Download ZIP, GitHub will append a suffix to the folder name.
+Make sure to rename the extracted folder to:
+
+DragonflightUI-Reforged
+
+
+For best results, always download from the Releases page.
+
+
 ## 📜 Final Words
 
 This is not a UI for everyone.
