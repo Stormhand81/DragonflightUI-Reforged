@@ -15,7 +15,7 @@ Instead of overwhelming users with endless toggles, it embraces strong visual id
 Customization exists where it matters.
 Silence exists where it should.
 
-✨ Core Philosophy
+## ✨ Core Philosophy
 
 Epic clarity over clutter
 
@@ -30,7 +30,7 @@ Performance-first, always
 This UI does not try to reinvent World of Warcraft.
 It sharpens it.
 
-🧩 Modular by Design
+## 🧩 Modular by Design
 
 Every component is forged as a module:
 
@@ -44,7 +44,7 @@ Safe coexistence with other addons
 
 Whether you seek immersion, efficiency, or both — Reforged adapts without losing its identity.
 
-🐲 From Reloaded to Reforged
+## 🐲 From Reloaded to Reforged
 
 Dragonflight UI: Reforged stands on the shoulders of Dragonflight: Reloaded, honoring its vision while pushing it further:
 
@@ -58,7 +58,7 @@ Stronger first-run experience
 
 What once was assembled is now forged.
 
-🏹 Who This UI Is For
+## 🏹 Who This UI Is For
 
 Players who value immersion and aesthetics
 
@@ -68,7 +68,7 @@ Minimalists who want power without noise
 
 Those who believe a UI should feel inevitable, not optional
 
-📜 Final Words
+## 📜 Final Words
 
 This is not a UI for everyone.
 It is a UI for those who know what they want —
