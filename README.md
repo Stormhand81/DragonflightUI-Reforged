@@ -68,6 +68,26 @@ Minimalists who want power without noise
 
 Those who believe a UI should feel inevitable, not optional
 
+## 🔌 Immersion Compatibility
+
+Dragonflight UI: Reforged was designed to work seamlessly alongside Immersion, a minimal and intelligent UI addon focused on cinematic gameplay and visual clarity.
+
+Both projects share the same design philosophy:
+clean presentation, invisible systems, and immersion first.
+
+When used together, Dragonflight UI: Reforged and Immersion create a unified interface experience — modern, restrained, and deeply atmospheric — without redundant elements or visual conflict.
+
+Automatic detection when Immersion is loaded
+
+Safe coexistence with shared UI elements
+
+No forced overrides or duplicated logic
+
+Immersion is developed and maintained by the same author.
+
+🔗 Download Immersion:
+[https://github.com/Stormhand81/Immersion]
+
 ## 📜 Final Words
 
 This is not a UI for everyone.
