@@ -105,6 +105,7 @@ Immersion is developed and maintained by the same author.
 6. Restart World of Warcraft
 
 <br>
+
 ## 📜 Final Words
 
 This is not a UI for everyone.
