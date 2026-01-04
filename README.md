@@ -6,6 +6,8 @@ Born from the foundations of Dragonflight: Reloaded, this project is not a simpl
 
 This is a UI shaped by restraint, precision, and intent — where modern clarity meets the timeless soul of World of Warcraft.
 
+Made for Turtle WoW.
+
 <br>
 
 ![WoW 2025-12-01 23-00-42](https://github.com/user-attachments/assets/5386c88c-9c1c-422b-84e4-e231772ee29e)
