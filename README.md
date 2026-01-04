@@ -104,21 +104,7 @@ Immersion is developed and maintained by the same author.
 5. *(Optional)* Copy the contents of `1.EXTRAS` into: Interface\
 6. Restart World of Warcraft
 
----
-
-### ⚠️ Important Note
-
-If you downloaded the addon using **Code → Download ZIP**, GitHub will append a suffix to the folder name.  
-Make sure to **rename the extracted folder** to:
-
-
-DragonflightUI-Reforged
-
-For best results, always download from the **Releases** page.
-
-
-
-
+<br>
 ## 📜 Final Words
 
 This is not a UI for everyone.
