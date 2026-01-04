@@ -1,0 +1,3 @@
+Place these directly into your WoW/Interface/ folder, not into your AddOns folder.
+
+This is not an addon, these are direct texture replacements.
