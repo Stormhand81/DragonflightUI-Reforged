@@ -6,6 +6,7 @@ Born from the foundations of Dragonflight: Reloaded, this project is not a simpl
 
 This is a UI shaped by restraint, precision, and intent — where modern clarity meets the timeless soul of World of Warcraft.
 
+
 ## ⚔️ A UI Forged, Not Assembled
 
 Dragonflight UI: Reforged abandons excess in favor of mastery.
@@ -14,6 +15,7 @@ Instead of overwhelming users with endless toggles, it embraces strong visual id
 
 Customization exists where it matters.
 Silence exists where it should.
+
 
 ## ✨ Core Philosophy
 
@@ -30,6 +32,7 @@ Performance-first, always
 This UI does not try to reinvent World of Warcraft.
 It sharpens it.
 
+
 ## 🧩 Modular by Design
 
 Every component is forged as a module:
@@ -43,6 +46,7 @@ Profile-aware configuration
 Safe coexistence with other addons
 
 Whether you seek immersion, efficiency, or both — Reforged adapts without losing its identity.
+
 
 ## 🐲 From Reloaded to Reforged
 
@@ -58,6 +62,7 @@ Stronger first-run experience
 
 What once was assembled is now forged.
 
+
 ## 🏹 Who This UI Is For
 
 Players who value immersion and aesthetics
@@ -67,6 +72,7 @@ Classic-era veterans seeking modern clarity
 Minimalists who want power without noise
 
 Those who believe a UI should feel inevitable, not optional
+
 
 ## 🔌 Immersion Compatibility
 
@@ -87,6 +93,7 @@ Immersion is developed and maintained by the same author.
 
 🔗 Download Immersion:
 [https://github.com/Stormhand81/Immersion]
+
 
 ## 📜 Final Words
 
