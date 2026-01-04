@@ -7,7 +7,7 @@ Born from the foundations of Dragonflight: Reloaded, this project is not a simpl
 This is a UI shaped by restraint, precision, and intent — where modern clarity meets the timeless soul of World of Warcraft.
 
 <br>
-<img>https://camo.githubusercontent.com/8733f28cd734c2ac223978295ad5655c16877d96419dd83f1eeab0315573f94a/68747470733a2f2f692e6962622e636f2f73704d58425256392f312e706e67
+<img>https://camo.githubusercontent.com/8733f28cd734c2ac223978295ad5655c16877d96419dd83f1eeab0315573f94a/68747470733a2f2f692e6962622e636f2f73704d58425256392f312e706e67</img>
 
 ## ⚔️ A UI Forged, Not Assembled
 
