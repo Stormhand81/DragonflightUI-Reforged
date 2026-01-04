@@ -1,0 +1,53 @@
+## Interface: 11200
+## Title: Dragonflight |cFFFF0000UI: |cFFFFFFFFReforged
+## Notes: Dragonflight UI for Turtle WoW
+## Version: 1.0.0
+## Author: Guzruul - Reforged by Stormhand
+## SavedVariables: DFRL_PROFILES, DFRL_DB_SETUP
+## SavedVariablesPerCharacter: DFRL_CUR_PROFILE, DFRL_FRAMEPOS
+
+# CORE
+core\error.lua
+core\core.lua
+core\tools.lua
+core\statusbar.lua
+core\compat.lua
+core\first.lua
+
+# DATA
+data\tables.lua
+
+# MODULES
+modules\bars\bars.lua
+modules\bars\range.lua
+modules\cast\cast.lua
+modules\chat\chat.lua
+modules\bags\bags.lua
+modules\map\map.lua
+modules\map\collect.lua
+modules\menu\menu.lua
+modules\menu\addons.lua
+modules\micro\micro.lua
+modules\frames\frames.lua
+modules\ui\ui.lua
+modules\ui\tooltip.lua
+modules\ui\talents.lua
+modules\ui\errorHandler.lua
+modules\unit\player.lua
+modules\unit\target.lua
+modules\unit\mini.lua
+modules\unit\pvp.lua
+modules\xprep\xprep.lua
+modules\track\track.lua
+# modules\test.lua
+
+# GUI
+modules\gui\tools.lua
+modules\gui\base.lua
+modules\gui\elem.lua
+modules\gui\home.lua
+modules\gui\homeb.lua
+modules\gui\info.lua
+modules\gui\prof.lua
+modules\gui\mods.lua
+modules\gui\shag.lua
