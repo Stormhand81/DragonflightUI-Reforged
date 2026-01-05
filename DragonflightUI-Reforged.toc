@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Dragonflight |cFFFF0000UI: |cFFFFFFFFReforged
+## Title: Dragonflight UI |cFFFF0000Reforged|r
 ## Notes: Dragonflight UI for Turtle WoW
 ## Version: 1.0.0
 ## Author: Guzruul - Reforged by Stormhand
