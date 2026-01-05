@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: Dragonflight UI |cFFFF0000Reforged|r
 ## Notes: Dragonflight UI for Turtle WoW
-## Version: 1.0.0
+## Version: 1.1
 ## Author: Guzruul - Reforged by Stormhand
 ## SavedVariables: DFRL_PROFILES, DFRL_DB_SETUP
 ## SavedVariablesPerCharacter: DFRL_CUR_PROFILE, DFRL_FRAMEPOS
