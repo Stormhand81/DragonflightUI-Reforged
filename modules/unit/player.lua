@@ -93,7 +93,24 @@ DFRL:NewMod("Player", 1, function()
 
     
     function Setup:HealthBar()
-        PlayerFrameHealthBar:Hide()
+-- Hard-disable vanilla bars/text so they can never reappear under DFRL
+if PlayerFrameHealthBar then
+    PlayerFrameHealthBar:Hide()
+    PlayerFrameHealthBar.Show = function() end
+end
+-- Vanilla health texts (optional, but prevents pop-back / overlap)
+if PlayerFrameHealthBarText then
+    PlayerFrameHealthBarText:Hide()
+    PlayerFrameHealthBarText.Show = function() end
+end
+if PlayerFrameHealthBarTextLeft then
+    PlayerFrameHealthBarTextLeft:Hide()
+    PlayerFrameHealthBarTextLeft.Show = function() end
+end
+if PlayerFrameHealthBarTextRight then
+    PlayerFrameHealthBarTextRight:Hide()
+    PlayerFrameHealthBarTextRight.Show = function() end
+end
         self.healthBar = CreateStatusBar(PlayerFrame, 130, 30)
         self.healthBar:SetPoint('TOPLEFT', PlayerFrame, 'TOPLEFT', 100, -29)
         self.healthBar:SetTextures(self.texpath .. 'healthDF2.tga')
@@ -121,7 +138,23 @@ DFRL:NewMod("Player", 1, function()
     end
 
     function Setup:ManaBar()
-        PlayerFrameManaBar:Hide()
+-- Hard-disable vanilla mana bar/text so it can never reappear under DFRL
+if PlayerFrameManaBar then
+    PlayerFrameManaBar:Hide()
+    PlayerFrameManaBar.Show = function() end
+end
+if PlayerFrameManaBarText then
+    PlayerFrameManaBarText:Hide()
+    PlayerFrameManaBarText.Show = function() end
+end
+if PlayerFrameManaBarTextLeft then
+    PlayerFrameManaBarTextLeft:Hide()
+    PlayerFrameManaBarTextLeft.Show = function() end
+end
+if PlayerFrameManaBarTextRight then
+    PlayerFrameManaBarTextRight:Hide()
+    PlayerFrameManaBarTextRight.Show = function() end
+end
         self.manaBar = CreateStatusBar(PlayerFrame, 130, 12)
         self.manaBar:SetPoint('TOPLEFT', PlayerFrame, 'TOPLEFT', 100, -53)
         self.manaBar:SetTextures(self.texpath .. 'UI-HUD-UnitFrame-Player-PortraitOn-Bar-Mana-Status.tga')
