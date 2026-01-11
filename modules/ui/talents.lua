@@ -82,6 +82,7 @@ DFRL:NewMod("Talents", 1, function()
         closeButton:SetPushedTexture('Interface\\AddOns\\DragonflightUI-Reforged\\media\\tex\\ui\\close_pushed.tga')
         closeButton:SetHighlightTexture('Interface\\AddOns\\DragonflightUI-Reforged\\media\\tex\\ui\\close_normal.tga')
         closeButton:SetScript('OnClick', function()
+            pcall(PlaySound, "TalentScreenClose")
             frame:Hide()
             UpdateMicroButtons()
         end)
@@ -563,15 +564,15 @@ DFRL:NewMod("Talents", 1, function()
             return
         end
 
-if SOUNDKIT and SOUNDKIT.IG_CHARACTER_INFO_TAB then
-        PlaySound(SOUNDKIT.IG_CHARACTER_INFO_TAB)
-    else
-        PlaySound("igCharacterInfoTab")
-    end
+        if frame and frame:IsVisible() then
+            pcall(PlaySound, "TalentScreenClose")
+        else
+            pcall(PlaySound, "TalentScreenOpen")
+        end
 
-    ToggleFrame()
-    UpdateMicroButtons()
-end
+        ToggleFrame()
+        UpdateMicroButtons()
+    end
 
     -- micromenu pushed hook
     -- totaly bad place but cant move it elsewhere because of bad code organisation
